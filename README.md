@@ -1,5 +1,5 @@
 ## Galaxy Collision
-More simulations/models from a more advanced computational physics class. <br/>
+All the code files are explained in the bottom of the PDF. (What they're used for) <br/>
 
 The two files here include modeling the collision of two galaxies, and modeling the Schroedinger Wave Equation. <br/>
 
